@@ -79,7 +79,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is the 2nd version of my personal project - Sudoku game. This project is intended to be a practical application of my web development knowledge and a demostration of my skills.
+
+The 1st version uses the MERN stack and realises basic sudoku game features. This version intends to refactor the original code with mainly the help of Redux and Rx.js. The architectural change should allow the app to scale up much more easily. Therefore, many more new features will be added gradually (refer to <a href="#roadmap">Roadmap</a> section): `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,8 +93,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
   - [React.js](https://reactjs.org/)
   - [Node.js](https://nodejs.org/)
 - [Redux + RTK + RTK Query](https://redux.js.org/)
-- [Typescript](https://www.typescriptlang.org/)
 - [Rx.js](https://rxjs.dev/guide/overview)
+- [Typescript](https://www.typescriptlang.org/)
 - [Ramda.js](https://ramdajs.com/)
 - [Sass](https://sass-lang.com/)
 
@@ -143,6 +145,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
+<div id="roadmap"></div>
 
 ## Roadmap
 
