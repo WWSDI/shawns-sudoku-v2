@@ -152,8 +152,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Add README
 - [ ] Add back basic Sudoku Game features from V1 with refactoring
+- [ ] Add more animations
+  - [ ] Breathing effect (conflict cells, current cell)
+  - [ ] Reverse-L shape wave effect (on winning)
 - [ ] Add Chinese language support
 - [ ] Add Dark Mode
+- [ ] Add Tutorial Mode
 - [ ] Add Sign-in integration
   - [ ] Facebook
   - [ ] Apple
